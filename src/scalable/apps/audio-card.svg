@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" enable-background="new" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient927">
+   <stop stop-color="#4d4d4d" offset="0"/>
+   <stop stop-color="#1a1a1a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1448" x1="3.9687" x2="3.9687" y1="16.404" y2="2.6458" gradientTransform="matrix(.91667 0 0 .91667 .70544 .70544)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#649646" offset="0"/>
+   <stop stop-color="#8cbe78" offset="1"/>
+  </linearGradient>
+  <filter id="filter861" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.16371"/>
+  </filter>
+  <linearGradient id="linearGradient1334" x1="167.69" x2="167.49" y1="196.79" y2="206.75" gradientTransform="matrix(1.0444 0 0 .81402 -166.57 -155.53)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient927"/>
+  <linearGradient id="b" x1="8.4667" x2="8.4667" y1="285.89" y2="291.18" gradientTransform="translate(-9.9042e-5 -280.07)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#e0e0e0" offset="0"/>
+   <stop stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <filter id="e" x="-.076154" y="-.0495" width="1.1523" height="1.099" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.10914023"/>
+  </filter>
+  <linearGradient id="linearGradient1493" x1="167.69" x2="167.49" y1="196.79" y2="206.75" gradientTransform="matrix(.33707 0 0 .31285 -44.79 -48.836)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient927"/>
+ </defs>
+ <rect x="1.1905" y="1.1905" width="14.552" height="14.552" ry="3.4395" filter="url(#filter861)" opacity=".3" stroke-opacity=".95294" stroke-width=".083153"/>
+ <rect x="1.1905" y="1.1905" width="14.552" height="14.552" ry="3.4395" fill="url(#linearGradient1448)" stroke-opacity=".95294" stroke-width=".083153"/>
+ <g transform="translate(0 -1.7121)">
+  <g transform="matrix(.21647 0 0 .20896 -3.4844 -40.008)" fill="#f8c44e" stroke-width="5.9157">
+   <rect transform="rotate(90)" x="214.23" y="-82.707" width="1.2165" height="55"/>
+   <rect transform="rotate(90)" x="216.95" y="-82.707" width="1.2165" height="55"/>
+   <rect transform="rotate(90)" x="222.95" y="-82.707" width="1.2165" height="55"/>
+   <rect transform="rotate(90)" x="225.74" y="-82.707" width="1.2165" height="55"/>
+   <rect transform="rotate(90)" x="219.95" y="-82.707" width="1.2165" height="55"/>
+   <rect transform="rotate(90)" x="228.55" y="-82.707" width="1.2165" height="55"/>
+   <rect transform="rotate(90)" x="231.26" y="-82.707" width="1.2165" height="55"/>
+   <rect transform="rotate(90)" x="237.27" y="-82.707" width="1.2165" height="55"/>
+   <rect transform="rotate(90)" x="240.06" y="-82.707" width="1.2165" height="55"/>
+   <rect transform="rotate(90)" x="234.27" y="-82.707" width="1.2165" height="55"/>
+   <rect transform="rotate(90)" x="245.74" y="-82.707" width="1.2165" height="55"/>
+   <rect transform="rotate(90)" x="248.53" y="-82.707" width="1.2165" height="55"/>
+   <rect transform="rotate(90)" x="242.74" y="-82.707" width="1.2165" height="55"/>
+  </g>
+  <rect x="3.69" y="4.3299" width="9.553" height="8.2731" ry=".65372" fill="url(#linearGradient1334)" fill-rule="evenodd"/>
+  <path d="m8.4665 5.8207 0.39688 0.13228s0.16431 0.50562 0.29661 0.63792c0.20915 0.20915 1.0263 0.68501 1.0263 1.7434 0 0.79375-0.52918 1.3229-1.1907 1.7198 0.66147-0.66146 0.92606-0.92606 0.92606-1.7198 0-1.0583-1.0583-1.1907-1.0583-1.1907v2.8807c0 0.29435-0.27742 0.78292-0.73012 0.97092-0.57389 0.23773-1.1752 0.10201-1.3428-0.30308-0.16761-0.40495 0.1614-0.92592 0.73516-1.1635 0.34277-0.14209 0.66411-0.17463 0.94101-0.0552z" filter="url(#e)" opacity=".15" stroke-width=".26458"/>
+  <path d="m8.4665 5.8207 0.39688 0.13228s0.16431 0.50562 0.29661 0.63792c0.20915 0.20915 1.0263 0.68501 1.0263 1.7434 0 0.79375-0.52918 1.3229-1.1907 1.7198 0.66147-0.66146 0.92606-0.92606 0.92606-1.7198 0-1.0583-1.0583-1.1907-1.0583-1.1907v2.8807c0 0.29435-0.27742 0.78292-0.73012 0.97092-0.57389 0.23773-1.1752 0.10201-1.3428-0.30308-0.16761-0.40495 0.1614-0.92592 0.73516-1.1635 0.34277-0.14209 0.66411-0.17463 0.94101-0.0552z" fill="url(#b)" stroke-width=".26458"/>
+ </g>
+ <g transform="translate(-.44152 -1.1595)">
+  <g transform="matrix(.25498 0 0 .23431 -15.429 -36.544)" fill="#f8c44e" stroke-width="4.8661">
+   <g transform="matrix(1 0 0 .47544 200.27 133.67)">
+    <rect transform="rotate(90)" x="164.02" y="84.064" width="2.3083" height="19.611"/>
+    <rect transform="rotate(90)" x="160.32" y="84.064" width="2.3083" height="19.611"/>
+    <rect transform="rotate(90)" x="167.73" y="84.064" width="2.3083" height="19.611"/>
+    <rect transform="rotate(90)" x="171.43" y="84.064" width="2.3083" height="19.611"/>
+   </g>
+   <g transform="matrix(1 0 0 .47544 200.27 140.58)">
+    <rect transform="rotate(90)" x="164.02" y="84.064" width="2.3083" height="19.611"/>
+    <rect transform="rotate(90)" x="160.32" y="84.064" width="2.3083" height="19.611"/>
+    <rect transform="rotate(90)" x="167.73" y="84.064" width="2.3083" height="19.611"/>
+    <rect transform="rotate(90)" x="171.43" y="84.064" width="2.3083" height="19.611"/>
+   </g>
+  </g>
+  <rect x="10.16" y="12.603" width="3.0832" height="3.1796" ry=".25124" fill="url(#linearGradient1493)" fill-rule="evenodd"/>
+ </g>
+ <g transform="translate(-6.0283 -1.1595)">
+  <g transform="matrix(.25498 0 0 .23431 -15.429 -36.544)" fill="#f8c44e" stroke-width="4.8661">
+   <g transform="matrix(1 0 0 .47544 200.27 133.67)">
+    <rect transform="rotate(90)" x="164.02" y="84.064" width="2.3083" height="19.611"/>
+    <rect transform="rotate(90)" x="160.32" y="84.064" width="2.3083" height="19.611"/>
+    <rect transform="rotate(90)" x="167.73" y="84.064" width="2.3083" height="19.611"/>
+    <rect transform="rotate(90)" x="171.43" y="84.064" width="2.3083" height="19.611"/>
+   </g>
+   <g transform="matrix(1 0 0 .47544 200.27 140.58)">
+    <rect transform="rotate(90)" x="164.02" y="84.064" width="2.3083" height="19.611"/>
+    <rect transform="rotate(90)" x="160.32" y="84.064" width="2.3083" height="19.611"/>
+    <rect transform="rotate(90)" x="167.73" y="84.064" width="2.3083" height="19.611"/>
+    <rect transform="rotate(90)" x="171.43" y="84.064" width="2.3083" height="19.611"/>
+   </g>
+  </g>
+  <rect x="10.16" y="12.603" width="3.0832" height="3.1796" ry=".25124" fill="url(#linearGradient1493)" fill-rule="evenodd"/>
+ </g>
+</svg>

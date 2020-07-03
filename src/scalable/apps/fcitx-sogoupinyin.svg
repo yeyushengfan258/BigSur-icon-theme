@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css"/>
+  <style type="text/css"/>
+  <filter id="filter861" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.16371"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(3.7796 0 0 3.7796 -1.011e-6 -1.011e-6)" x="1.1905" y="1.1905" width="14.552" height="14.552" ry="3.4395" filter="url(#filter861)" opacity=".3" stroke-opacity=".95294" stroke-width=".083153"/>
+ <rect x="4.4996" y="4.4996" width="55.001" height="55.001" ry="13" fill="#f75314" stroke-opacity=".95294" stroke-width=".31428"/>
+ <path d="m44.456 14.2 2.2222 5.9887s-20.091-0.86116-21.631 4.9747c-1.8197 6.902 16.78-1.4211 24.161 4.9721 7.3781 6.3937-1.014 15.734-11.827 18.065-10.815 2.337-18.098 1.424-18.098 1.424l-2.2196-7.0058s7.0708 1.4213 15.261-0.50307c8.1877-1.9322 11.121-6.4996 2.5284-5.989-8.591 0.50336-22.645 2.5316-22.849-6.0899-0.19862-8.6293 8.2949-15.938 32.451-15.837z" fill="#fff" stroke-width=".05663" p-id="29696"/>
+</svg>

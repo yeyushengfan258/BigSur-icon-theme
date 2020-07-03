@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="linearGradient1448" x1="3.9687" x2="3.9687" y1="16.404" y2="2.6458" gradientTransform="matrix(3.4646 0 0 3.4646 2.6663 2.6663)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#1ed764" offset="0"/>
+   <stop stop-color="#19d764" offset="1"/>
+  </linearGradient>
+  <filter id="filter861" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.16371"/>
+  </filter>
+ </defs>
+ <rect transform="matrix(3.7796 0 0 3.7796 -1.011e-6 -1.011e-6)" x="1.1905" y="1.1905" width="14.552" height="14.552" ry="3.4395" filter="url(#filter861)" opacity=".3" stroke-opacity=".95294" stroke-width=".083153"/>
+ <rect x="4.4996" y="4.4996" width="55.001" height="55.001" ry="13" fill="url(#linearGradient1448)" stroke-opacity=".95294" stroke-width=".31428"/>
+ <path d="m43.936 44.047c-0.4885 0.80113-1.5372 1.0551-2.3383 0.5634-6.4032-3.9112-14.464-4.797-23.957-2.6281-0.91478 0.20843-1.8267-0.36474-2.035-1.2798-0.20939-0.91511 0.36149-1.827 1.2785-2.0354 10.389-2.3735 19.299-1.3515 26.488 3.0416 0.80113 0.49176 1.0551 1.5372 0.5634 2.3383zm3.338-7.4258c-0.6155 1.0004-1.9247 1.3163-2.9244 0.70082-7.3306-4.5059-18.505-5.8107-27.175-3.1788-1.1245 0.33966-2.3123-0.29407-2.6534-1.4166-0.33869-1.1245 0.29537-2.3099 1.4179-2.6518 9.9044-3.0052 22.217-1.5495 30.636 3.6236 0.99978 0.6155 1.3157 1.9247 0.70017 2.9231zm0.28657-7.7324c-8.7896-5.2207-23.292-5.7007-31.683-3.1537-1.3476 0.4087-2.7727-0.35204-3.181-1.6996-0.40838-1.3482 0.35171-2.7723 1.7003-3.1821 9.6334-2.9244 25.648-2.3594 35.767 3.648 1.2147 0.71938 1.612 2.2848 0.89231 3.4953-0.71645 1.2121-2.2861 1.6116-3.4944 0.89199z" fill="#111" stroke-width="1.3636"/>
+</svg>

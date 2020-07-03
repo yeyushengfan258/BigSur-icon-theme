@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <filter id="filter861" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.16371"/>
+  </filter>
+  <linearGradient id="linearGradient1261" x1="54.456" x2="54.456" y1="6.4548" y2="11.072" gradientTransform="matrix(.99367 .11225 -.11225 .99367 -44.428 -12.119)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffd700" offset="0"/>
+   <stop stop-color="#ffb300" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect x="1.1905" y="1.1905" width="14.552" height="14.552" ry="3.4395" filter="url(#filter861)" opacity=".3" stroke-opacity=".95294" stroke-width=".083153"/>
+ <rect x="1.1905" y="1.1905" width="14.552" height="14.552" ry="3.4395" fill="#fafafa" stroke-opacity=".95294" stroke-width=".083153"/>
+ <path d="m4.6291 1.1906c-0.23782 7.05e-5 -0.47002 0.024162-0.694 0.069762-0.22431 0.045667-0.44057 0.11267-0.64646 0.19947-0.41177 0.17359-0.78209 0.42501-1.0929 0.73586-0.31084 0.31084-0.56227 0.68116-0.73586 1.0929-0.086794 0.20589-0.1538 0.42215-0.19947 0.64646-0.00947 0.046529-0.00688 0.096971-0.014469 0.14417l14.441 5.167e-4c-0.0076-0.047373-5e-3 -0.097997-0.01447-0.14469-0.045667-0.22431-0.11267-0.44057-0.19947-0.64646-0.17359-0.41177-0.42501-0.78209-0.73586-1.0929-0.31084-0.31084-0.68116-0.56227-1.0929-0.73586-0.20589-0.086794-0.42215-0.1538-0.64646-0.19947-0.22297-0.045395-0.4542-0.068961-0.6909-0.069245l-7.6769-5.168e-4z" fill="url(#linearGradient1261)" stroke-width=".99999"/>
+ <g transform="translate(.15105)" fill="#a0a0a0" stroke-width=".96154">
+  <circle transform="rotate(.011734)" cx="2.664" cy="4.606" r=".1574"/>
+  <circle transform="rotate(.011734)" cx="3.6919" cy="4.606" r=".1574"/>
+  <circle transform="rotate(.011734)" cx="4.7198" cy="4.606" r=".1574"/>
+  <circle transform="rotate(.011734)" cx="5.7476" cy="4.606" r=".1574"/>
+  <circle transform="rotate(.011734)" cx="6.7746" cy="4.606" r=".1574"/>
+  <circle transform="rotate(.011734)" cx="7.8025" cy="4.606" r=".1574"/>
+  <circle transform="rotate(.011734)" cx="8.8303" cy="4.606" r=".1574"/>
+  <circle transform="rotate(.011734)" cx="9.8582" cy="4.606" r=".1574"/>
+  <circle transform="rotate(.011734)" cx="10.886" cy="4.606" r=".1574"/>
+  <circle transform="rotate(.011734)" cx="11.914" cy="4.606" r=".1574"/>
+  <circle transform="rotate(.011734)" cx="13.969" cy="4.606" r=".1574"/>
+  <circle transform="rotate(.011734)" cx="12.941" cy="4.606" r=".1574"/>
+ </g>
+ <g fill="#dcdcdc">
+  <rect x="1.5875" y="6.6145" width="13.758" height=".26458" ry="0"/>
+  <rect x="1.5875" y="8.4665" width="13.758" height=".26458" ry="0"/>
+  <rect x="1.5875" y="10.319" width="13.758" height=".26458" ry="0"/>
+  <rect x="1.5875" y="12.171" width="13.758" height=".26458" ry="0"/>
+  <rect x="2.1166" y="14.023" width="12.7" height=".26458" ry="0"/>
+ </g>
+</svg>
