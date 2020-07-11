@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <style type="text/css"/>
+  <linearGradient id="a-3" x1="99.036" x2="99.036" y1="-.50472" y2="199.84" gradientTransform="matrix(.079373 0 0 .079373 .52919 .52915)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4bd2f5" offset="0"/>
+   <stop stop-color="#5587ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="8.4665" cy="8.4665" r="7.9373" color="#000000" fill="url(#a-3)" stroke-width=".26458"/>
+ <g fill="#5e4aa6" stroke-width=".26458">
+  <circle cx="-330.35" cy="-328.38" r="0"/>
+  <circle cx="-330.35" cy="-328.37" r="0"/>
+  <circle cx="-330.35" cy="-328.37" r="0"/>
+  <circle cx="-352.63" cy="-336.83" r="0"/>
+ </g>
+ <path d="m8.3841 4.6139a3.1526 3.1526 0 0 0-3.1526 3.1526 3.1526 3.1526 0 0 0 3.1526 3.1526 3.1526 3.1526 0 0 0 1.885-0.6307l2.4365 2.4365 0.63671-0.63671-2.4365-2.4365a3.1526 3.1526 0 0 0 0.63069-1.885 3.1526 3.1526 0 0 0-3.1526-3.1526m0 0.90074a2.2518 2.2518 0 0 1 2.2518 2.2518 2.2518 2.2518 0 0 1-0.01145 0.22518 2.2518 2.2518 0 0 1-0.36329 1.0151 2.2518 2.2518 0 0 1-0.63684 0.63684 2.2518 2.2518 0 0 1-0.17153 0.10204 2.2518 2.2518 0 0 1-0.021989 0.0132 2.2518 2.2518 0 0 1-0.00451 0.0018 2.2518 2.2518 0 0 1-0.19968 0.09236 2.2518 2.2518 0 0 1-0.19616 0.06861 2.2518 2.2518 0 0 1-0.016725 0.0062 2.2518 2.2518 0 0 1-0.00271 9.01e-4 2.2518 2.2518 0 0 1-0.20495 0.04838 2.2518 2.2518 0 0 1-0.011445 0.0027 2.2518 2.2518 0 0 1-0.00181 0 2.2518 2.2518 0 0 1-0.16537 0.02289 2.2518 2.2518 0 0 1-0.066853 0.0088 2.2518 2.2518 0 0 1-0.17681 7e-3 2.2518 2.2518 0 0 1-2.2518-2.2518 2.2518 2.2518 0 0 1 0.011445-0.22518 2.2518 2.2518 0 0 1 1.0239-1.6695 2.2518 2.2518 0 0 1 0.40023-0.20407 2.2518 2.2518 0 0 1 0.81629-0.15306" fill="#fff" stroke-width=".58579"/>
+</svg>

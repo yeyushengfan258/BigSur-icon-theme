@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css"/>
+  <linearGradient id="b" x1="97.425" x2="97.425" y1="-9.0071" y2="209.87" gradientTransform="matrix(.079373 0 0 .079373 .52916 .52918)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#5beaff" offset="0"/>
+   <stop stop-color="#4076ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g fill="#5e4aa6">
+  <circle cx="-330.38" cy="-328.44" r="0" stroke-width=".26458"/>
+  <g transform="translate(-.02725 -.05735)" stroke-width=".26458">
+   <circle cx="-299.02" cy="-338.77" r="0"/>
+   <circle cx="-8.1062" cy="-3.9487" r="0" fill-rule="evenodd"/>
+   <circle cx="-278.25" cy="-357.69" r="0"/>
+   <circle cx="12.663" cy="-22.859" r="0" fill-rule="evenodd"/>
+  </g>
+  <g transform="scale(.26458)" image-rendering="optimizeSpeed">
+   <circle cx="-1160" cy="-1257.6" r="0"/>
+   <circle cx="-1160" cy="-1257.6" r="0"/>
+   <circle cx="-1244.2" cy="-1289.6" r="0"/>
+   <circle cx="-1124.8" cy="-1279.3" r="0"/>
+   <g transform="matrix(3.7796,0,0,3.7796,123.83,-38.184)" stroke-width=".26458">
+    <circle cx="-299.02" cy="-338.77" r="0"/>
+    <circle cx="-8.1062" cy="-3.9487" r="0" fill-rule="evenodd"/>
+    <circle cx="-278.25" cy="-357.69" r="0"/>
+    <circle cx="12.663" cy="-22.859" r="0" fill-rule="evenodd"/>
+   </g>
+  </g>
+ </g>
+ <circle cx="8.4665" cy="8.4665" r="7.9373" color="#000000" fill="url(#b)" image-rendering="optimizeSpeed" stroke-width=".26458"/>
+ <g transform="matrix(1.1079 0 0 1.1079 -.91354 -311.2)" fill="#fff" stroke-opacity=".255" stroke-width=".899">
+  <path d="m4.235 290.53 0.65-3.175h1.502c0.65 0.04 0.974 0.353 0.974 0.902 0 0.94-0.771 1.487-1.461 1.45h-0.732l-0.163 0.824h-0.772m1.098-1.411 0.203-1.176h0.528c0.285 0 0.487 0.118 0.487 0.353-0.041 0.666-0.365 0.784-0.73 0.823" fill-rule="evenodd"/>
+  <path d="m7.119 289.71 0.65-3.174h0.771l-0.162 0.822h0.731c0.65 0.04 0.894 0.353 0.812 0.745l-0.284 1.607h-0.813l0.285-1.45c0.04-0.196 0.04-0.314-0.245-0.314h-0.608l-0.366 1.763h-0.77"/>
+  <path d="m9.572 290.53 0.65-3.175h1.504c0.65 0.04 0.974 0.353 0.974 0.902 0 0.94-0.772 1.487-1.463 1.45h-0.731l-0.162 0.824m0.325-1.411 0.203-1.176h0.528c0.284 0 0.487 0.118 0.487 0.353-0.04 0.666-0.365 0.784-0.732 0.823" fill-rule="evenodd"/>
+ </g>
+</svg>

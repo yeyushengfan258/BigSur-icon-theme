@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <linearGradient id="SVGID_1_" x1="24.838" x2="46.732" y1="33.654" y2="55.548" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#EF6B2E" offset=".3569"/>
+   <stop stop-color="#F19F00" offset=".6328"/>
+  </linearGradient>
+  <linearGradient id="SVGID_2_" x1="24.859" x2="46.753" y1="30.388" y2="8.4933" gradientTransform="matrix(2.0044,0,0,2.0044,105.19,228.49)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#16B8C3" offset=".3707"/>
+   <stop stop-color="#02AEF0" offset=".7422"/>
+  </linearGradient>
+  <linearGradient id="a-3" x1="32" x2="32" y1="2" y2="62" gradientTransform="matrix(.26459 0 0 .26459 .066756 .21412)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f5faff" offset="0"/>
+   <stop stop-color="#cfdef0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="8.4665" cy="8.4665" r="7.9376" fill="url(#a-3)" stroke-width=".26459" style="paint-order:stroke markers fill"/>
+ <g transform="matrix(.23918 0 0 .23918 -15.775 .61765)" stroke-width="1.1062">
+  <g transform="translate(71.322 .81356)">
+   <path d="m29 39.8c2.5 1.5 8.6 0.6 13.4 3.7s7.5 8.1 7.6 8.3 0.1 0.4-0.2 0.7-0.8 0.3-0.8 0.3-11.1 1.8-18.2-4.9c-7.2-6.7-6.6-13.5-6.6-13.5s0.4 2.9 4.8 5.4z" clip-rule="evenodd" fill="url(#SVGID_1_)" fill-rule="evenodd" stroke-width="1.1062"/>
+  </g>
+  <g transform="translate(71.322 .81356)">
+   <path d="m24.1 29.7s-0.5-6.9 6.6-13.5c7.2-6.8 18.3-5 18.3-5s0.5 0.1 0.8 0.3 0.3 0.5 0.2 0.7-2.8 5.3-7.6 8.3-10.9 2.2-13.4 3.7c-4.3 2.6-4.9 5.5-4.9 5.5z" clip-rule="evenodd" fill="url(#SVGID_2_)" fill-rule="evenodd" stroke-width="1.1062"/>
+  </g>
+  <g transform="translate(71.322 .81356)">
+   <path d="m24 32c0 11.6 9.4 21 21 21h-14c-11.6 0-21-9.4-21-21s9.4-21 21-21h14c-11.6 0-21 9.4-21 21z" clip-rule="evenodd" fill="#1b1f24" fill-rule="evenodd" stroke-width="1.1062"/>
+  </g>
+ </g>
+ <circle cx="-307.17" cy="-324.65" r="0" fill="#5e4aa6" stroke-width=".26458"/>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <linearGradient id="b" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429 0 0 2.1429 -826.36 -1107.5)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3889e9" offset="0"/>
+   <stop stop-color="#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x1="409.57" x2="409.75" y1="542.8" y2="506.01" gradientTransform="matrix(1.2512 0 0 1.1932 -479.23 -594.41)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#606060" offset="0"/>
+   <stop stop-color="#414141" offset=".49147"/>
+   <stop stop-color="#1e1e1e" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect transform="matrix(1,1.4502e-6,-2.5149e-6,1,0,0)" x="4.4717" y="12.94" width="55.057" height="40.568" ry="1.9092" opacity=".15" stroke-width="1.175"/>
+ <circle cx="32.02" cy="32.044" r="0" fill="url(#b)" stroke-width="1.5715"/>
+ <rect transform="matrix(1,1.4502e-6,-2.5149e-6,1,0,0)" x="4.4717" y="11.492" width="55.057" height="40.568" ry="1.9092" fill="url(#a)" stroke-width="1.175"/>
+ <path d="m6.3683 11.494c-1.0508-2e-6 -1.896 0.84515-1.896 1.896v36.513c-2.9e-6 1.0508 0.84515 1.896 1.896 1.896h6.7972v-40.304h-6.7972z" fill="#fff" opacity=".15" stroke-width="1.1711"/>
+ <g transform="matrix(1.4489 0 0 1.4489 -14.363 -14.588)" fill="#ccc" stroke-width=".46238">
+  <circle cx="16.5" cy="29.5" r="1.5"/>
+  <circle cx="16.5" cy="25.5" r="1.5"/>
+  <circle cx="16.5" cy="21.502" r="1.5"/>
+ </g>
+</svg>

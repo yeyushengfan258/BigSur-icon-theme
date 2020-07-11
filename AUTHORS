@@ -1,9 +1,19 @@
+<<<<<<< HEAD
 ------------------------ BIGSUR ICON THEME ------------------------
+=======
+------------------------ MCMUSE ICON THEME ------------------------
+>>>>>>> e9b276af09c84de97b166a1897c39cad225eaff7
 
 SOURCES:
-yaru-icon-theme: https://github.com/ubuntu/yaru
+OSX_ONE: https://github.com/unc926/OSX_ONE
 
 CUSTOMIZER:
-yeyushengfan258 - BigSur icon theme (https://github.com/yeyushengfan258/BigSur-icon-theme)
+<<<<<<< HEAD
+Vince Liuice <vinceliuice@hotmail.com> - BigSur-circle icon theme (https://github.com//vinceliuice/BigSur-icon-theme)
 
 ------------------------ BIGSUR ICON THEME ------------------------
+=======
+Vince Liuice <vinceliuice@hotmail.com> - McMuse-circle icon theme (https://github.com//vinceliuice/McMuse-icon-theme)
+
+------------------------ MCMUSE ICON THEME ------------------------
+>>>>>>> e9b276af09c84de97b166a1897c39cad225eaff7

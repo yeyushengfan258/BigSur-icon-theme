@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <linearGradient id="linearGradient1159" x1="-177.09" x2="-177.09" y1="-1.3372" y2="-15.674" gradientTransform="translate(186.66 17.009)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#78b4dc" offset="0"/>
+   <stop stop-color="#0096f0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient981" x1="12.022" x2="10.339" y1="15.435" y2="9.1891" gradientTransform="translate(.7131 .10149)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff8c14" offset="0"/>
+   <stop stop-color="#ffb932" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient991" x1="-177.09" x2="-184.76" y1="-1.3372" y2="-7.9214" gradientTransform="translate(186.66 17.009)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ff820f" offset="0"/>
+   <stop stop-color="#ff8c0f" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect transform="rotate(-7.0243)" x="-.26689" y="2.2205" width="14.552" height="14.552" ry="1.2138" fill="#0f6eb4"/>
+ <rect x="1.9037" y="1.1906" width="14.552" height="14.552" ry="1.2138" fill="url(#linearGradient1159)"/>
+ <path d="m1.9037 9.0876v5.4409c0 0.67244 0.54089 1.2139 1.2133 1.2139h8.0319c-0.63867-1.0369-1.5641-2.1795-2.9062-3.3754-2.4416-2.1757-4.6688-3.0026-6.339-3.2793z" fill="url(#linearGradient991)"/>
+ <path d="m12.649 9.6253c-3.0211-0.076835-5.0403 2.0109-6.355 3.0354-1.1381 0.88682-3.1256 1.013-4.3898 0.99423v0.87383c0 0.67244 0.54089 1.2139 1.2133 1.2139h12.125c0.7128 0 1.2139-0.54141 1.2139-1.2139v-3.747c-0.14083-0.08164-0.28768-0.16148-0.44079-0.23874-1.2407-0.62606-2.3591-0.89214-3.3661-0.91776z" fill="url(#linearGradient981)"/>
+ <circle cx="13.278" cy="4.8425" r="1.7884" fill="#ffffe1"/>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <linearGradient id="linearGradient848" x1="-168.88" x2="-177.2" y1="1.3499" y2="-16.855" gradientTransform="matrix(.87524 0 0 1.0136 163.45 17.229)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#aa6450" offset="0"/>
+   <stop stop-color="#dc7d64" offset="1"/>
+  </linearGradient>
+  <filter id="filter892" x="-.32659" y="-.033035" width="1.6532" height="1.0661" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.19085032"/>
+  </filter>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(.93518 0 0 .93518 -10.125 .57864)">
+  <rect x="25.758" y="1.6144" width="1.6502" height="3.3184" ry=".25915" fill="#f0f0f0"/>
+  <rect x="25.758" y="5.1301" width="1.6502" height="3.3184" ry=".25915" fill="#00bee6"/>
+  <rect x="25.758" y="8.6459" width="1.6502" height="3.3184" ry=".25915" fill="#3cc346"/>
+  <rect x="25.758" y="12.162" width="1.6502" height="3.3184" ry=".25915" fill="#ff9600"/>
+  <rect x="25.223" y="1.6144" width="1.4025" height="13.866" ry=".276" filter="url(#filter892)" opacity=".5"/>
+ </g>
+ <rect x="1.7487" y="1.1969" width="12.736" height="14.75" ry="1.2302" fill="url(#linearGradient848)" stroke-width=".94182"/>
+ <path d="m2.9791 1.1967c-0.68157 0-1.2303 0.54881-1.2303 1.2304v12.289c0 0.68157 0.5488 1.2304 1.2303 1.2304h1.026v-14.75z" fill="#b46450" stroke-width=".94182"/>
+ <g transform="matrix(.67944 0 0 .67944 -76.236 -3.6039)">
+  <ellipse transform="rotate(-4.6939)" cx="123.8" cy="27.987" rx="1.6235" ry="2.1309" fill="#a05037"/>
+  <path d="m125.92 20.733a3.8003 3.8003 0 0 0-3.1558 2.232 5.4475 5.4475 0 0 0 3.4102 0.86638 5.4475 5.4475 0 0 0 3.2221-1.4063 3.8003 3.8003 0 0 0-3.4765-1.6921z" fill="#a05037"/>
+  <circle transform="rotate(-4.6939)" cx="123.8" cy="28.628" r="5.4475" fill="none" stroke="#a05037" stroke-dashoffset=".42096" stroke-width="1.3229"/>
+ </g>
+</svg>

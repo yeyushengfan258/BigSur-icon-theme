@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1159" x1="-184.75" x2="-170.2" y1="-1.2655" y2="-15.817" gradientTransform="translate(151.1 18.981)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#05a0f0" offset="0"/>
+   <stop stop-color="#2db4f0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1227" x1="-228.54" x2="-228.54" y1="49.422" y2="52.342" gradientTransform="translate(237.02 -44.947)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </linearGradient>
+  <filter id="filter1229" x="-.069096" y="-.1071" width="1.1382" height="1.2142" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.1347133"/>
+  </filter>
+  <filter id="filter1275" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.04134033"/>
+  </filter>
+  <filter id="filter1299" x="-.024" y="-.024" width="1.048" height="1.048" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.18834042"/>
+  </filter>
+  <filter id="filter1305" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61852427"/>
+  </filter>
+  <linearGradient id="linearGradient1140" x1="-228.54" x2="-228.54" y1="49.422" y2="52.342" gradientTransform="translate(237.02,-44.947)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1227"/>
+  <linearGradient id="linearGradient1142" x1="-228.54" x2="-228.54" y1="49.422" y2="53.22" gradientTransform="translate(237.02,-44.947)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1227"/>
+  <linearGradient id="linearGradient1197" x1="-26.333" x2="-26.333" y1="14.565" y2="6.2418" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#556e78" offset="0"/>
+   <stop stop-color="#7d8c96" offset="1"/>
+  </linearGradient>
+  <filter id="filter1203" x="-.029319" y="-.045446" width="1.0586" height="1.0909" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.057163223"/>
+  </filter>
+  <filter id="filter1213" x="-.26" y="-.35454" width="1.52" height="1.7091" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.087444998"/>
+  </filter>
+  <filter id="filter1243" x="-.010048" y="-.015575" width="1.0201" height="1.0311" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.019590196"/>
+  </filter>
+  <linearGradient id="linearGradient909" x1="-26.358" x2="-26.352" y1="13.591" y2="12.73" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#7dafc3" offset="0"/>
+   <stop stop-color="#7dafc3" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(34.849 -1.9725)">
+  <rect x="-33.658" y="3.1629" width="14.552" height="14.552" ry="1.2138" fill="url(#linearGradient1159)"/>
+  <circle transform="matrix(.40802 0 0 .41644 85.768 -7.8046)" cx="-274.87" cy="44.339" r="12.37" filter="url(#filter1305)" opacity=".25"/>
+  <circle cx="-26.383" cy="10.439" r="5.0968" fill="#fff" stroke-width=".41203"/>
+  <circle cx="-26.383" cy="10.439" r="4.2122" fill="url(#linearGradient1197)" stroke-width=".41203"/>
+  <circle transform="matrix(.43815 0 0 .43815 94.05 -8.9878)" cx="-274.87" cy="44.339" r="9.417" fill="none" filter="url(#filter1299)" opacity=".25" stroke="#1e1e1e" stroke-dashoffset=".42096" stroke-width=".24372"/>
+  <ellipse transform="matrix(.99354 0 0 1.1029 -34.794 1.4794)" cx="8.4666" cy="6.4479" rx="2.3396" ry="1.5094" fill="url(#linearGradient1140)" filter="url(#filter1229)" opacity=".4"/>
+  <circle cx="-26.383" cy="10.439" r="2.9566" fill="#1e415a" stroke-width=".28921"/>
+  <ellipse transform="matrix(.5643 0 0 .53288 -31.16 4.0068)" cx="8.4666" cy="6.4479" rx="2.3396" ry="1.5094" fill="url(#linearGradient1142)" filter="url(#filter1203)"/>
+  <circle transform="matrix(.86461 0 0 .86867 -32.997 2.45)" cx="13.675" cy="3.2411" r=".82681" filter="url(#filter1275)" opacity=".25"/>
+  <circle cx="-21.174" cy="5.2215" r=".69772" fill="#fff"/>
+  <ellipse transform="matrix(3.2355 0 0 4.1892 58.977 -41.71)" cx="-26.382" cy="13.103" rx=".40359" ry=".29597" fill="url(#linearGradient909)" filter="url(#filter1213)" opacity=".6"/>
+  <ellipse transform="matrix(.27214 0 0 .23597 -28.686 12.23)" cx="8.4666" cy="6.4479" rx="2.3396" ry="1.5094" fill="#64afc3" filter="url(#filter1243)" opacity=".5"/>
+ </g>
+</svg>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1056" x1="-170.14" x2="-177.47" y1="-1.3647" y2="-8.5413" gradientTransform="translate(195.07,46.371)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0096ff" offset="0"/>
+   <stop stop-color="#00dcff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1058" x1="-184.75" x2="-170.19" y1="-8.5413" y2="-15.811" gradientTransform="translate(195.07,46.371)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#505f64" offset="0"/>
+   <stop stop-color="#647378" offset="1"/>
+  </linearGradient>
+  <filter id="filter1255" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.064633745"/>
+  </filter>
+  <filter id="filter1269" x="-.06" y="-.06" width="1.12" height="1.12" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.082435125"/>
+  </filter>
+  <filter id="filter1287" x="-.051958" y="-.070988" width="1.1039" height="1.142" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.07138584"/>
+  </filter>
+  <filter id="filter959" x="-.037149" y="-.14184" width="1.0743" height="1.2837" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.051039421"/>
+  </filter>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-9.1321,-29.364)">
+  <path d="m17.599 37.83h-7.2759v6.062c0 0.67244 0.54141 1.2139 1.2138 1.2139h6.062z" fill="#46505a"/>
+  <path d="m17.599 37.83v7.2759h6.062c0.67244 0 1.2138-0.54141 1.2138-1.2139v-6.0507c-0.0196-9.31e-4 -0.036-0.01137-0.0558-0.01137z" fill="url(#linearGradient1056)"/>
+  <path d="m11.537 30.554c-0.67244 0-1.2138 0.54089-1.2138 1.2133v6.0626h14.496c0.0198 0 0.0362 0.01044 0.0558 0.01137v-6.0739c0-0.67244-0.54141-1.2133-1.2138-1.2133z" fill="url(#linearGradient1058)"/>
+ </g>
+ <rect transform="matrix(1.0142 0 0 1.0832 -125.02 -19.114)" x="126.55" y="22.114" width="3.2974" height=".86361" ry=".4318" filter="url(#filter959)" opacity=".5"/>
+ <rect x="3.3579" y="4.835" width="3.2974" height=".86361" ry=".4318" fill="#fafafa"/>
+ <g transform="matrix(1.0148 0 0 1.0418 -126.76 -18.181)" filter="url(#filter1255)" opacity=".5">
+  <rect transform="rotate(45)" x="111.07" y="-81.266" width="3.2974" height=".86361" ry=".4318" style=""/>
+  <rect transform="rotate(-45)" x="79.186" y="112.29" width="3.2974" height=".86361" ry=".4318" style=""/>
+ </g>
+ <g transform="translate(-124.74 -17.296)" fill="#fafafa">
+  <rect transform="rotate(45)" x="111.07" y="-81.266" width="3.2974" height=".86361" ry=".4318"/>
+  <rect transform="rotate(-45)" x="79.186" y="112.29" width="3.2974" height=".86361" ry=".4318"/>
+ </g>
+ <g transform="matrix(1.0173 0 0 1.0298 -125.41 -15.919)" filter="url(#filter1269)" opacity=".5">
+  <rect x="126.55" y="26.546" width="3.2974" height=".86361" ry=".4318" style=""/>
+  <rect transform="rotate(-90)" x="-28.626" y="127.77" width="3.2974" height=".86361" ry=".4318" style=""/>
+ </g>
+ <g transform="translate(-123.19 -15.169)" fill="#fafafa">
+  <rect x="126.55" y="26.546" width="3.2974" height=".86361" ry=".4318"/>
+  <rect transform="rotate(-90)" x="-28.626" y="127.77" width="3.2974" height=".86361" ry=".4318"/>
+ </g>
+ <g transform="matrix(1.0225 0 0 1.0273 -127.9 -15.957)" filter="url(#filter1287)" opacity=".5">
+  <rect x="135.28" y="25.884" width="3.2974" height=".86361" ry=".4318" style=""/>
+  <rect x="135.28" y="27.434" width="3.2974" height=".84084" ry=".42042" style=""/>
+ </g>
+ <g transform="translate(-124.81 -15.255)" fill="#fafafa">
+  <rect x="135.28" y="25.884" width="3.2974" height=".86361" ry=".4318"/>
+  <rect x="135.28" y="27.434" width="3.2974" height=".86361" ry=".4318"/>
+ </g>
+</svg>

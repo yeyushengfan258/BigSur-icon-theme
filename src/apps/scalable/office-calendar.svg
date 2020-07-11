@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <linearGradient id="linearGradient1003" x1="80.552" x2="81.596" y1="13.364" y2="14.091" gradientTransform="matrix(.60374 .072766 -.068238 .6438 -36.71 17.299)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fbc7ba" offset="0"/>
+   <stop stop-color="#f8d2c8" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient848" x1="-170.2" x2="-184.75" y1="-1.2654" y2="-15.817" gradientTransform="translate(185.94 17.008)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#f5501e" offset="0"/>
+   <stop stop-color="#ff640a" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <rect x="1.1906" y="1.1904" width="14.552" height="14.552" ry="1.2138" fill="url(#linearGradient848)"/>
+ <rect x="4.6459" y="2.7264" width="7.6414" height="1.0045" ry=".50225" fill="#ebf0f0" style="paint-order:stroke fill markers"/>
+ <g transform="translate(1.5747 -19.444)">
+  <rect transform="matrix(1 8.1288e-5 -.00014927 1 0 0)" x=".50806" y="24.766" width="12.776" height="9.4282" ry=".78642" fill="#ebf0f0" stroke-width=".75422"/>
+  <g stroke-width=".62742">
+   <path d="m13.279 28.609s-0.17772 1.9856-1.918 2.7296c-1.4378 0.61462 0.38318 1.7995-3.8858 2.8563 5.5191-1.0136 5.8037-5.5858 5.8037-5.5858z" fill="url(#linearGradient1003)"/>
+   <path d="m13.279 28.609c-0.48336 3.6746-3.6428 5.2247-5.8037 5.5858l5.0664 2.81e-4c0.40857 4.8e-5 0.73736-0.35082 0.73743-0.78646z" fill="#efc7b8"/>
+  </g>
+  <text x="3.7939749" y="31.308344" fill="#ff501e" font-family="Hack" font-size="5.1145px" font-weight="bold" letter-spacing="0px" stroke-width=".12786" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="3.7939749" y="31.308344" fill="#ff501e" font-family="Hack" font-size="5.1145px" font-weight="bold" stroke-width=".12786" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal">15</tspan></text>
+ </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient977" x1="-81.044" x2="-69.273" y1="-2.4143" y2="7.8046" gradientTransform="translate(78.576 24.134)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#ffd250" offset="0"/>
+   <stop stop-color="#ffb42d" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient986" x1="-84.008" x2="-81.044" y1="12.888" y2="-2.4143" gradientTransform="translate(78.576 24.134)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0faa96" offset="0"/>
+   <stop stop-color="#23b955" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient994" x1="-84.008" x2="-69.273" y1="12.888" y2="7.8046" gradientTransform="translate(78.576 24.134)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3c82eb" offset="0"/>
+   <stop stop-color="#05aaff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(.89708 0 0 .89708 8.2064 -17.75)">
+  <path d="m-2.4679 21.72h5.8703l5.8998 10.219h-5.8337z" fill="url(#linearGradient977)"/>
+  <path d="m-2.4533 21.702 2.9352 5.0839-5.8998 10.219-2.9168-5.0521z" fill="url(#linearGradient986)"/>
+  <path d="m9.3023 31.939-2.9352 5.0839-11.8-2e-6 2.9386-5.0842z" fill="url(#linearGradient994)"/>
+  <path d="m-2.4533 21.702 2.9352 5.0839-0.13466 0.23324z" opacity=".2"/>
+  <path d="m-5.4292 37.022 2.9352-5.0839h0.26933z" opacity=".2"/>
+  <path d="m9.3389 31.939h-5.8703l-0.13466-0.23325z" opacity=".2"/>
+ </g>
+</svg>
