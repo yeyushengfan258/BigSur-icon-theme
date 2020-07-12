@@ -12,11 +12,7 @@ fi
 
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
-<<<<<<< HEAD
 THEME_NAME=BigSur
-=======
-THEME_NAME=McMuse
->>>>>>> e9b276af09c84de97b166a1897c39cad225eaff7
 THEME_VARIANTS=('' '-red' '-pink' '-purple' '-green' '-yellow' '-orange' '-brown' '-grey' '-black')
 COLOR_VARIANTS=('' '-dark')
 
