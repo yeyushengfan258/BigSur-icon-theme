@@ -13,7 +13,7 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="system-switch-user.svg"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+   inkscape:version="0.92.5 (6c0c36ef5a, 2020-05-15, custom)">
   <defs
      id="defs18">
     <linearGradient
@@ -431,18 +431,6 @@
          stop-color="#6c7884"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient825">
-      <stop
-         style="stop-color:#58626b;stop-opacity:1"
-         offset="0"
-         id="stop821" />
-      <stop
-         style="stop-color:#6b7783;stop-opacity:1"
-         offset="1"
-         id="stop823" />
-    </linearGradient>
     <style
        id="current-color-scheme-36"
        type="text/css">.ColorScheme-Text {
@@ -494,14 +482,26 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient825"
-       id="linearGradient827"
-       x1="-17.125"
-       y1="31.625"
-       x2="-17.125"
-       y2="-0.25"
+       xlink:href="#linearGradient3212"
+       id="linearGradient3202"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(33.250001,0.25000043)" />
+       gradientTransform="matrix(0.9375,0,0,0.9375,122,31.937499)"
+       x1="5"
+       y1="-26"
+       x2="5"
+       y2="-1" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3212">
+      <stop
+         style="stop-color:#00ebb4;stop-opacity:1"
+         offset="0"
+         id="stop3208" />
+      <stop
+         style="stop-color:#1e967d;stop-opacity:1"
+         offset="1"
+         id="stop3210" />
+    </linearGradient>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -513,14 +513,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="975"
+     inkscape:window-height="949"
      id="namedview16"
      showgrid="true"
      inkscape:zoom="5.2149125"
-     inkscape:cx="7.1196115"
-     inkscape:cy="40.254601"
+     inkscape:cx="-5.5364014"
+     inkscape:cy="31.241986"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="36"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14"
      inkscape:snap-bbox="true"
@@ -543,60 +543,74 @@
     </rdf:RDF>
   </metadata>
   <circle
-     style="opacity:1;fill:url(#linearGradient827);fill-opacity:1;stroke:none;stroke-width:1.12775326;stroke-opacity:1"
-     id="path819"
-     cx="16"
-     cy="16"
-     r="16" />
-  <circle
      style="fill:url(#a-6);stroke-width:1.48305774"
      cx="-189.41006"
      cy="-50.668385"
      r="0"
      id="circle14" />
   <g
-     id="g966"
-     transform="translate(62,26.000001)">
+     id="system-switch-user"
+     inkscape:label="#g3231"
+     transform="translate(-121.00002)">
+    <rect
+       y="7.4606987e-14"
+       x="121.00002"
+       height="32"
+       width="32"
+       id="rect3192"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="7"
+       y="1"
+       x="122.00002"
+       height="30"
+       width="30"
+       id="rect3194"
+       style="opacity:1;fill:url(#linearGradient3202);fill-opacity:1;stroke:none;stroke-width:0.5625;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
-       id="g958">
-      <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.86602539;stroke-opacity:1"
-         id="rect942"
-         width="16"
-         height="3"
-         x="-54"
-         y="-14"
-         ry="1.5" />
-      <rect
-         ry="1.5"
-         y="17.591883"
-         x="-44.271481"
-         height="3"
-         width="9"
-         id="rect946"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.64951903;stroke-opacity:1"
-         transform="rotate(45)" />
-    </g>
-    <g
-       id="g954">
-      <rect
-         ry="1.5"
-         y="6.0000014"
-         x="38"
-         height="3"
-         width="16"
-         id="rect948"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.86602539;stroke-opacity:1"
-         transform="scale(-1)" />
-      <rect
-         transform="rotate(-135)"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.64951903;stroke-opacity:1"
-         id="rect950"
-         width="9"
-         height="3"
-         x="34.92448"
-         y="-33.319805"
-         ry="1.5" />
+       transform="translate(183,26.000001)"
+       id="g966-3">
+      <g
+         id="g958-6">
+        <rect
+           ry="1.5"
+           y="-14"
+           x="-54"
+           height="3"
+           width="16"
+           id="rect942-7"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.86602497;stroke-opacity:1" />
+        <rect
+           transform="rotate(45)"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.64951903;stroke-opacity:1"
+           id="rect946-5"
+           width="9"
+           height="3"
+           x="-44.271481"
+           y="17.591883"
+           ry="1.5" />
+      </g>
+      <g
+         id="g954-3">
+        <rect
+           transform="scale(-1)"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.86602497;stroke-opacity:1"
+           id="rect948-5"
+           width="16"
+           height="3"
+           x="38"
+           y="6.0000014"
+           ry="1.5" />
+        <rect
+           ry="1.5"
+           y="-33.319805"
+           x="34.92448"
+           height="3"
+           width="9"
+           id="rect950-6"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.64951903;stroke-opacity:1"
+           transform="rotate(-135)" />
+      </g>
     </g>
   </g>
 </svg>
