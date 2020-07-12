@@ -347,7 +347,7 @@
  <filter id="b" x="-.29025" y="-.31562" width="1.5805" height="1.6312" color-interpolation-filters="sRGB">
   <feGaussianBlur stdDeviation="23.878758"/>
  </filter>
- <g transform="matrix(3.7796 0 0 3.7796 .209 -3.5374e-5)">
+ <g transform="matrix(3.4346 0 0 3.4346 3.1108 2.9209)">
   <g transform="translate(-21.834 .89695)" fill="#5e4aa6" stroke-width=".26458">
    <circle cx="-330.35" cy="-328.38" r="0"/>
    <circle cx="-312.11" cy="-326.25" r="0"/>

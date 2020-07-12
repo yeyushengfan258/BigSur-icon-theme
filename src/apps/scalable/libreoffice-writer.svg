@@ -623,8 +623,7 @@
  <filter id="b" x="-.29025" y="-.31562" width="1.5805" height="1.6312" color-interpolation-filters="sRGB">
   <feGaussianBlur stdDeviation="23.878758"/>
  </filter>
- <text transform="rotate(-8.8113)" x="118.58954" y="26.798725" fill="#ffffff" font-family="'TeX Gyre Heros Cn'" font-size="21.634px" font-stretch="condensed" font-weight="bold" letter-spacing="0" stroke-width=".22536" word-spacing="0"><tspan x="118.58954" y="26.798725" stroke-width=".22536">X</tspan></text>
- <g transform="matrix(3.7796 0 0 3.7796 -.000728 .00018195)">
+ <g transform="matrix(3.4586 0 0 3.4586 2.7173 2.7181)">
   <g transform="translate(-21.834 .89695)" fill="#5e4aa6" stroke-width=".26458">
    <circle cx="-330.35" cy="-328.38" r="0"/>
    <circle cx="-312.11" cy="-326.25" r="0"/>

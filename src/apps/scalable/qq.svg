@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
   <clipPath id="clipPath13429">
    <path d="m481 318h22v22h-22z"/>
@@ -150,6 +149,7 @@
    <stop stop-color="#0078d7" offset="0"/>
    <stop stop-color="#0aaff0" offset="1"/>
   </linearGradient>
+  <linearGradient id="linearGradient1398" x1="42.228" x2="35.668" y1=".82194" y2="9.7776" gradientTransform="translate(-27.818 .64364)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient3087"/>
  </defs>
  <metadata>
   <rdf:RDF>
@@ -482,7 +482,7 @@
    </g>
   </g>
  </g>
- <g fill="url(#linearGradient3087)" stroke-width=".46599">
+ <g transform="matrix(1.0022 0 0 1.0022 -.08445 -.018502)" fill="url(#linearGradient1398)" stroke-width=".46599">
   <path d="m13.411 14.755c-0.08611 0.68072-1.197 1.0997-2.4802 0.93683-1.2828-0.16366-2.2532-0.8481-2.1659-1.5292 0.086488-0.68072 1.197-1.1001 2.4798-0.93645 1.2835 0.16328 2.2528 0.8481 2.1663 1.5288"/>
   <path d="m3.7286 14.688c0.10103 0.68258 1.2548 1.1195 2.5786 0.97671 1.3234-0.14352 2.3139-0.81306 2.2129-1.496-0.10065-0.68221-1.2559-1.1195-2.579-0.97597-1.3234 0.14315-2.3147 0.81269-2.2125 1.4953"/>
   <path d="m13.296 5.8138c0 2.5439-2.0783 4.607-4.6431 4.607-2.5633 0-4.642-2.063-4.642-4.607 0-2.545 2.0787-4.6073 4.642-4.6073 2.5648 0 4.6431 2.0623 4.6431 4.6073"/>

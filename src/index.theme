@@ -1,9 +1,5 @@
 [Icon Theme]
-<<<<<<< HEAD
 Name=BigSur
-=======
-Name=McMuse
->>>>>>> e9b276af09c84de97b166a1897c39cad225eaff7
 Comment=MacOSX style icon theme for linux.
 Inherits=Numix-Circle-Light,Adwaita,hicolor
 Example=folder
