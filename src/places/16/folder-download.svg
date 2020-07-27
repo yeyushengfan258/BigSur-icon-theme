@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1.1"
-   viewBox="0 0 16 16"
-   id="svg13"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="folder-download.svg"
-   inkscape:version="0.92.5 (6c0c36ef5a, 2020-05-15, custom)">
+   id="svg13"
+   viewBox="0 0 16 16"
+   version="1.1"
+   height="16"
+   width="16">
   <metadata
      id="metadata17">
     <rdf:RDF>
@@ -22,75 +22,76 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="954"
-     id="namedview15"
-     showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="-5.4552316"
-     inkscape:cy="5.6883273"
-     inkscape:window-x="0"
-     inkscape:window-y="36"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg13"
+     inkscape:document-rotation="0"
+     inkscape:bbox-nodes="true"
      inkscape:snap-bbox="true"
-     inkscape:bbox-nodes="true">
+     inkscape:current-layer="svg13"
+     inkscape:window-maximized="1"
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:cy="5.6883273"
+     inkscape:cx="-5.4552316"
+     inkscape:zoom="14.75"
+     showgrid="true"
+     id="namedview15"
+     inkscape:window-height="936"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
     <inkscape:grid
-       type="xygrid"
-       id="grid830" />
+       id="grid830"
+       type="xygrid" />
   </sodipodi:namedview>
   <defs
      id="defs3">
     <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; }</style>
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text { color:#363636; } .ColorScheme-Highlight { color:#5294e2; }</style>
   </defs>
   <g
-     id="g852"
-     transform="translate(-19)">
+     transform="translate(-19)"
+     id="g852">
     <rect
-       ry="0.5"
-       y="4"
-       x="27"
-       height="8"
-       width="1"
+       style="opacity:1;fill:#0096ff;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect843"
-       style="opacity:1;fill:#0550eb;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       transform="rotate(45)"
-       style="opacity:1;fill:#0550eb;fill-opacity:1;stroke:none;stroke-width:0.47434166;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect845"
        width="1"
-       height="5"
-       x="27.077164"
-       y="-15.814352"
+       height="8"
+       x="27"
+       y="4"
        ry="0.5" />
     <rect
        ry="0.5"
-       y="23.076521"
-       x="-11.813709"
+       y="-15.814352"
+       x="27.077164"
        height="5"
        width="1"
+       id="rect845"
+       style="opacity:1;fill:#0096ff;fill-opacity:1;stroke:none;stroke-width:0.47434166;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="rotate(45)" />
+    <rect
+       transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)"
+       style="opacity:1;fill:#0096ff;fill-opacity:1;stroke:none;stroke-width:0.47434166;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect847"
-       style="opacity:1;fill:#0550eb;fill-opacity:1;stroke:none;stroke-width:0.47434166;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="matrix(-0.70710678,0.70710678,0.70710678,0.70710678,0,0)" />
+       width="1"
+       height="5"
+       x="-11.813709"
+       y="23.076521"
+       ry="0.5" />
   </g>
   <path
-     style="opacity:1;fill:#0550eb;fill-opacity:1;stroke:none;stroke-width:0.64285719;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 8.5,1 A 7.5,7.5 0 0 0 1,8.5 7.5,7.5 0 0 0 8.5,16 7.5,7.5 0 0 0 16,8.5 7.5,7.5 0 0 0 8.5,1 Z m 0,1.0714286 A 6.4285714,6.4285714 0 0 1 14.928571,8.5 6.4285714,6.4285714 0 0 1 8.5,14.928571 6.4285714,6.4285714 0 0 1 2.0714286,8.5 6.4285714,6.4285714 0 0 1 8.5,2.0714286 Z"
+     inkscape:connector-curvature="0"
      id="path885"
-     inkscape:connector-curvature="0" />
+     d="M 8.5,1 A 7.5,7.5 0 0 0 1,8.5 7.5,7.5 0 0 0 8.5,16 7.5,7.5 0 0 0 16,8.5 7.5,7.5 0 0 0 8.5,1 Z m 0,1.0714286 A 6.4285714,6.4285714 0 0 1 14.928571,8.5 6.4285714,6.4285714 0 0 1 8.5,14.928571 6.4285714,6.4285714 0 0 1 2.0714286,8.5 6.4285714,6.4285714 0 0 1 8.5,2.0714286 Z"
+     style="opacity:1;fill:#0096ff;fill-opacity:1;stroke:none;stroke-width:0.64285719;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

@@ -7,11 +7,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   viewBox="0 0 16 16"
-   id="svg33"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="drive-harddisk.svg"
-   inkscape:version="0.92.5 (6c0c36ef5a, 2020-05-15, custom)">
+   id="svg33"
+   viewBox="0 0 16 16"
+   version="1.1">
   <metadata
      id="metadata37">
     <rdf:RDF>
@@ -20,42 +20,43 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="954"
-     id="namedview35"
-     showgrid="true"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="-11.220791"
-     inkscape:cy="32.322347"
-     inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg33">
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:cy="7.9402356"
+     inkscape:cx="5.4852139"
+     inkscape:zoom="32"
+     showgrid="true"
+     id="namedview35"
+     inkscape:window-height="936"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
     <inkscape:grid
-       type="xygrid"
-       id="grid948" />
+       id="grid948"
+       type="xygrid" />
   </sodipodi:namedview>
   <defs
      id="defs3">
     <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#363636; }</style>
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text { color:#363636; }</style>
     <style
-       id="current-color-scheme-3"
-       type="text/css">.ColorScheme-Text {
+       type="text/css"
+       id="current-color-scheme-3">.ColorScheme-Text {
         color:#363636;
       }
       .ColorScheme-Background {
@@ -93,30 +94,30 @@
       }</style>
   </defs>
   <circle
-     style="color:#363636;fill:#363636"
-     cx="-8.8613596"
-     cy="12.00028"
+     r="0"
      id="ellipse35"
-     r="0" />
+     cy="12.00028"
+     cx="-8.8613596"
+     style="color:#363636;fill:#363636" />
   <g
-     id="g1004"
-     transform="translate(34,-1)">
+     transform="translate(34,-1)"
+     id="g1004">
     <path
-       id="rect970"
-       d="m -30,10 c -1.662,0 -3,1.338 -3,3 0,1.662 1.338,3 3,3 h 8 c 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 z m 0,1 h 8 c 1.108,0 2,0.892 2,2 0,1.108 -0.892,2 -2,2 h -8 c -1.108,0 -2,-0.892 -2,-2 0,-1.108 0.892,-2 2,-2 z"
-       style="opacity:1;fill:#0550eb;fill-opacity:1;stroke:none;stroke-width:0.6820783;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="sccccssccccss"
        inkscape:connector-curvature="0"
-       id="rect974"
+       style="opacity:1;fill:#0096ff;fill-opacity:1;stroke:none;stroke-width:0.6820783;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -30,10 c -1.662,0 -3,1.338 -3,3 0,1.662 1.338,3 3,3 h 8 c 1.662,0 3,-1.338 3,-3 0,-1.662 -1.338,-3 -3,-3 z m 0,1 h 8 c 1.108,0 2,0.892 2,2 0,1.108 -0.892,2 -2,2 h -8 c -1.108,0 -2,-0.892 -2,-2 0,-1.108 0.892,-2 2,-2 z"
+       id="rect970" />
+    <path
+       style="opacity:1;fill:#0096ff;fill-opacity:1;stroke:none;stroke-width:0.67936629;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -29,3 c -1.108,0 -1.659319,0.9456754 -2,2 l -1.823223,7 h 1 L -30,5 c 0.170341,-0.5271623 0.446,-1 1,-1 h 6 c 0.554,0 0.829438,0.4729093 1,1 l 1.832031,7 h 1 L -21,5 c -0.341124,-1.0541814 -0.892,-2 -2,-2 z"
-       style="opacity:1;fill:#0550eb;fill-opacity:1;stroke:none;stroke-width:0.67936629;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="rect974"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sccccssccccss" />
     <circle
-       r="1"
-       cy="13"
-       cx="-22"
+       style="opacity:1;fill:#0096ff;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path999"
-       style="opacity:1;fill:#0550eb;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       cx="-22"
+       cy="13"
+       r="1" />
   </g>
 </svg>

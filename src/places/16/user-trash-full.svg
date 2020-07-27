@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="16"
-   height="16"
-   version="1.1"
-   id="svg13"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    sodipodi:docname="user-trash-full.svg"
-   inkscape:version="0.92.5 (6c0c36ef5a, 2020-05-15, custom)">
+   id="svg13"
+   version="1.1"
+   height="16"
+   width="16">
   <metadata
      id="metadata17">
     <rdf:RDF>
@@ -21,76 +21,77 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="954"
-     id="namedview15"
-     showgrid="true"
-     inkscape:zoom="10.429825"
-     inkscape:cx="7.5819223"
-     inkscape:cy="6.9413772"
-     inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="svg13"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg13">
+     inkscape:window-y="36"
+     inkscape:window-x="0"
+     inkscape:cy="3.5699744"
+     inkscape:cx="8.874396"
+     inkscape:zoom="20.85965"
+     showgrid="true"
+     id="namedview15"
+     inkscape:window-height="936"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff">
     <inkscape:grid
-       type="xygrid"
-       id="grid893" />
+       id="grid893"
+       type="xygrid" />
   </sodipodi:namedview>
   <defs
      id="defs3">
     <style
-       id="current-color-scheme"
-       type="text/css">.ColorScheme-Text { color:#363636; }</style>
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text { color:#363636; }</style>
   </defs>
   <g
-     id="g865"
-     transform="translate(-17)">
+     transform="translate(-17)"
+     id="g865">
     <path
-       id="rect817"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#0096ff;fill-opacity:1;stroke:none;stroke-width:0.5070926;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 20,6 v 8 c 0,1.108 0.892,2 2,2 h 6 c 1.108,0 2,-0.892 2,-2 V 6 h -1 v 8 c 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 V 6 Z"
-       style="opacity:1;fill:#0550eb;fill-opacity:1;stroke:none;stroke-width:0.5070926;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       inkscape:connector-curvature="0" />
+       id="rect817" />
     <rect
-       ry="0.5"
-       y="7"
-       x="23"
-       height="7"
-       width="1"
+       style="opacity:1;fill:#0096ff;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect822"
-       style="opacity:1;fill:#0550eb;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#0550eb;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect824"
        width="1"
        height="7"
-       x="26"
+       x="23"
        y="7"
        ry="0.5" />
     <rect
        ry="0.5"
-       y="5"
-       x="18"
-       height="1"
-       width="14"
+       y="7"
+       x="26"
+       height="7"
+       width="1"
+       id="rect824"
+       style="opacity:1;fill:#0096ff;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#0096ff;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect846"
-       style="opacity:1;fill:#0550eb;fill-opacity:1;stroke:none;stroke-width:0.60000002;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       width="14"
+       height="1"
+       x="18"
+       y="5"
+       ry="0.5" />
     <path
-       inkscape:connector-curvature="0"
-       id="rect848"
+       style="opacity:1;fill:#0096ff;fill-opacity:1;stroke:none;stroke-width:1.11098421;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 23,2 c -1.108,0 -2,0.892 -2,2 v 1 h 1 V 4 c 0,-0.554 0.446,-1 1,-1 h 4 c 0.554,0 1,0.446 1,1 v 1 h 1 V 4 C 29,2.892 28.108,2 27,2 Z"
-       style="opacity:1;fill:#0550eb;fill-opacity:1;stroke:none;stroke-width:1.11098421;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       id="rect848"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

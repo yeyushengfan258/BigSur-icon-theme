@@ -13,7 +13,7 @@ fi
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=BigSur
-THEME_VARIANTS=('' '-red' '-pink' '-purple' '-green' '-yellow' '-orange' '-brown' '-grey' '-black')
+THEME_VARIANTS=('' '-black')
 COLOR_VARIANTS=('' '-dark')
 
 usage() {
