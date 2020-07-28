@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1068" x1="73.52" x2="89.099" y1="18.109" y2="18.109" gradientTransform="translate(-25.384 -5.7584)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00c65b" offset="0"/>
+   <stop stop-color="#01bba1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1113" x1="55.594" x2="55.433" y1="22.689" y2="34.054" gradientTransform="translate(0 -11.552)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#00c370" stop-opacity=".5" offset="0"/>
+   <stop stop-color="#fafafa" stop-opacity="0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(.83184 0 0 .83184 -38.069 -1.4701)">
+  <rect x="47.196" y="4.7088" width="17.494" height="14.552" ry="1.2138" fill="#2d4650" stroke-width="1.0964"/>
+  <rect x="48.355" y="5.6727" width="15.176" height="12.624" ry="1.053" fill="#3c5564" stroke-width=".95117"/>
+  <g fill="#fafafa">
+   <path transform="scale(.26458)" d="m192.65 21.441v47.713h3.4512v-47.713z" opacity=".2" style="paint-order:stroke fill markers"/>
+   <path transform="scale(.26458)" d="m203.83 21.441v47.713h3.4512v-47.713z" opacity=".2" style="paint-order:stroke fill markers"/>
+   <path transform="scale(.26458)" d="m215 21.441v47.713h3.4512v-47.713z" opacity=".2" style="paint-order:stroke fill markers"/>
+   <path transform="scale(.26458)" d="m237.34 21.645v47.307c1.6094-0.50993 2.7773-1.9949 2.7773-3.7773v-39.754c0-1.7824-1.168-3.2655-2.7773-3.7754z" opacity=".2" style="paint-order:stroke fill markers"/>
+   <path transform="scale(.26458)" d="m226.17 21.441v47.713h3.4512v-47.713z" opacity=".2" style="paint-order:stroke fill markers"/>
+  </g>
+  <path d="m60.626 9.3847-2.8695 2.4933-3.3377-1.2046-2.9946 4.5138-3.0695-0.93688v2.9936c0 0.58336 0.46927 1.0526 1.0526 1.0526h13.07c0.58336 0 1.0531-0.46927 1.0531-1.0526v-7.1111z" fill="url(#linearGradient1113)"/>
+  <path transform="scale(.26458)" d="m184.93 21.893c-1.2849 0.65853-2.1699 1.9789-2.1699 3.5273v39.754c0 1.5484 0.885 2.8708 2.1699 3.5293z" fill="#fafafa" opacity=".2" style="paint-order:stroke fill markers"/>
+  <path d="m48.339 14.246 3.0852 0.94172 2.9943-4.5141 3.3376 1.2047 2.87-2.4933 2.9238 0.75338" fill="none" stroke="url(#linearGradient1068)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0583"/>
+  <g fill="#fafafa">
+   <circle cx="51.373" cy="15.135" r=".59957" style="paint-order:stroke fill markers"/>
+   <circle cx="48.402" cy="14.235" r=".59957" style="paint-order:stroke fill markers"/>
+   <circle cx="54.445" cy="10.745" r=".59957" style="paint-order:stroke fill markers"/>
+   <circle cx="57.734" cy="11.807" r=".59957" style="paint-order:stroke fill markers"/>
+   <circle cx="60.644" cy="9.4473" r=".59957" style="paint-order:stroke fill markers"/>
+   <circle cx="63.493" cy="10.113" r=".59957" style="paint-order:stroke fill markers"/>
+  </g>
+ </g>
+</svg>
