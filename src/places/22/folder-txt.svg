@@ -2,10 +2,5 @@
  <defs>
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#363636; }</style>
  </defs>
- <g class="ColorScheme-Text" transform="translate(-439,-173)" color="#363636" fill="currentColor" fill-rule="evenodd">
-  <path transform="translate(442,176)" d="m6 1v2l5 5v4h3v-6h-5v-5z" opacity=".4"/>
-  <path transform="translate(442,176)" d="m5 0v3h1v-2h2c0.4714 0 1 0.5286 1 1v4h4c0.4714 0 1 0.5286 1 1v5h-3v1h4v-8l-5-5zm5 1.4902 1.7559 1.7539 1.7539 1.7559h-3.5098z" opacity=".8" style="paint-order:fill markers stroke"/>
-  <path d="m444 180v11h8v-6h-5v-5z" opacity=".15"/>
-  <path transform="translate(442,176)" d="m1 3v13h10v-8l-5-5zm1 1h2c0.4714 0 1 0.5286 1 1v4h4c0.4714 0 1 0.5286 1 1v5h-8zm4 0.49023 1.7559 1.7539 1.7539 1.7559h-3.5098z" opacity=".8" style="paint-order:fill markers stroke"/>
- </g>
+ <path class="ColorScheme-Text" d="m10 3c-1.108 0-2 0.892-2 2v1h-2c-1.108 0-2 0.892-2 2v9c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-1h2c1.108 0 2-0.892 2-2v-6l-5-5h-1zm0 1h2v5h5v5c0 0.554-0.446 1-1 1h-2v-4l-5-5v-1c0-0.1385 0.027656-0.27091 0.078125-0.39062 0.15141-0.35916 0.50638-0.60938 0.92188-0.60938zm3 0.41406 3.5859 3.5859h-3.5859zm-7 2.5859h2v5h5v5c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-9c0-0.1385 0.027656-0.27091 0.078125-0.39062 0.15141-0.35916 0.50638-0.60938 0.92188-0.60938zm3 0.41406 3.5859 3.5859h-3.5859z" fill="currentColor"/>
 </svg>
