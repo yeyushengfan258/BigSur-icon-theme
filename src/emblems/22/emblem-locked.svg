@@ -5,6 +5,8 @@
         .ColorScheme-Text {
             color:#232629;
         }</style>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-19.23" y="-18.999" width="15.998" height="15.998" rx="8.001" ry="8.001" fill="none" opacity=".1" stroke="#000" stroke-width="1.5"/>
+ <rect transform="matrix(0,-1,-1,0,0,0)" x="-19.23" y="-18.999" width="15.998" height="15.998" rx="8.001" ry="8.001" fill="none" opacity=".2" stroke="#000" stroke-width=".5"/>
  <g transform="matrix(3.7794 0 0 3.7794 4.5041e-8 -1100.5)">
   <g transform="translate(3.969,1.588)">
    <rect transform="matrix(0,-1,-1,0,0,0)" x="-294.62" y="-1.058" width="4.233" height="4.233" rx="2.117" ry="2.117" fill="#ff8135"/>
