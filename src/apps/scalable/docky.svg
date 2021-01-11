@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="docky.svg"
    id="svg13"
    version="1.1"
@@ -76,30 +76,6 @@
          id="stop1885"
          offset="1"
          style="stop-color:#296eeb;stop-opacity:1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient1729"
-       inkscape:collect="always">
-      <stop
-         id="stop1725"
-         offset="0"
-         style="stop-color:#969696;stop-opacity:1" />
-      <stop
-         style="stop-color:#ebebeb;stop-opacity:1"
-         offset="0.09090909"
-         id="stop1731" />
-      <stop
-         id="stop1743"
-         offset="0.51203823"
-         style="stop-color:#969696;stop-opacity:1" />
-      <stop
-         id="stop1741"
-         offset="0.87559569"
-         style="stop-color:#ebebeb;stop-opacity:1" />
-      <stop
-         id="stop1727"
-         offset="1"
-         style="stop-color:#969696;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="i"
@@ -1451,15 +1427,6 @@
          id="stop871" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="60"
-       x2="35"
-       y1="5"
-       x1="35"
-       id="linearGradient1723"
-       xlink:href="#linearGradient1729"
-       inkscape:collect="always" />
-    <linearGradient
        id="linearGradient865"
        x1="7.9373"
        x2="7.9373"
@@ -1554,10 +1521,10 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="svg13"
      inkscape:window-maximized="1"
-     inkscape:window-y="36"
+     inkscape:window-y="38"
      inkscape:window-x="0"
-     inkscape:cy="16.608596"
-     inkscape:cx="33.695511"
+     inkscape:cy="38.101147"
+     inkscape:cx="6.1980025"
      inkscape:zoom="5.6568543"
      showgrid="false"
      id="namedview15"
@@ -1891,7 +1858,7 @@
      height="55"
      width="55"
      id="rect1713"
-     style="opacity:1;fill:url(#linearGradient1723);stroke-width:1.375;stroke-linecap:round;fill-opacity:1" />
+     style="opacity:1;fill:#969696;stroke-width:1.375;stroke-linecap:round;fill-opacity:1" />
   <rect
      style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:1.325;stroke-linecap:round"
      id="rect1715"
