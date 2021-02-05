@@ -14,7 +14,7 @@
    viewBox="0 0 16.933 16.933"
    id="svg24"
    sodipodi:docname="netease-cloud-music.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -28,13 +28,14 @@
      inkscape:window-height="935"
      id="namedview26"
      showgrid="false"
-     inkscape:zoom="4.2813106"
-     inkscape:cx="11.264062"
-     inkscape:cy="21.997116"
+     inkscape:zoom="8.5626212"
+     inkscape:cx="36.385731"
+     inkscape:cy="33.108275"
      inkscape:window-x="0"
      inkscape:window-y="38"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg24" />
+     inkscape:current-layer="svg24"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata2">
     <rdf:RDF>
@@ -264,7 +265,7 @@
   </defs>
   <image
      x="0.41249987"
-     y="0.76901525"
+     y="0.49842662"
      width="16.108"
      height="16.139"
      preserveAspectRatio="none"
