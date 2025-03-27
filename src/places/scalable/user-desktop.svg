@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   version="1.1"
+   id="svg43"
+   sodipodi:docname="user-desktop.svg"
+   inkscape:version="0.92.5 (6c0c36ef5a, 2020-05-15, custom)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="949"
+     id="namedview45"
+     showgrid="false"
+     inkscape:zoom="1.668772"
+     inkscape:cx="33.20163"
+     inkscape:cy="64.3357"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg43" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs9">
+    <linearGradient
+       id="linearGradient894"
+       x1=".52916"
+       x2="16.404"
+       y1="14.42"
+       y2="2.5135"
+       gradientTransform="matrix(1 0 0 1.1111 0 -.94071)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#005aff"
+         offset="0"
+         id="stop4" />
+      <stop
+         stop-color="#059bff"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.1111,-1.6649e-4,-0.94068)"
+       y2="7.9903"
+       y1="7.9903"
+       x2="16.404"
+       x1=".52932"
+       id="linearGradient894-3">
+      <stop
+         id="stop852"
+         offset="0"
+         stop-color="#3492cb" />
+      <stop
+         id="stop854"
+         offset=".066667"
+         stop-color="#6ec8fa" />
+      <stop
+         id="stop856"
+         offset=".93389"
+         stop-color="#6ec8fa" />
+      <stop
+         id="stop858"
+         offset="1"
+         stop-color="#3492cb" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="current-color-scheme">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+    <style
+       id="style862"
+       type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.18168,0,0,0.40956,9.201,-451.88)"
+       y2="1140.2"
+       y1="1138.4"
+       x2="-9.617"
+       x1="-9.617"
+       id="linearGradient1438">
+      <stop
+         id="stop864"
+         offset="0"
+         stop-opacity="0"
+         stop-color="#1482be" />
+      <stop
+         id="stop866"
+         offset="1"
+         stop-color="#1482be" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g929"
+     transform="matrix(12.283465,0,0,12.283465,-3.9978332,-3.9989398)">
+    <g
+       id="g881"
+       style="fill:#5e4aa6;stroke-width:0.27889001">
+      <circle
+         id="circle873"
+         r="0"
+         cy="-362.51001"
+         cx="-302.94" />
+      <circle
+         id="circle875"
+         r="0"
+         cy="-362.51001"
+         cx="-302.94" />
+      <circle
+         id="circle877"
+         r="0"
+         cy="-365.81"
+         cx="-330.35001" />
+      <circle
+         id="circle879"
+         r="0"
+         cy="-380.10999"
+         cx="-312.92999" />
+    </g>
+    <rect
+       id="rect883"
+       style="fill:url(#linearGradient894-3);fill-rule:evenodd;stroke-width:1.05410004;paint-order:stroke fill markers"
+       ry="1.1911"
+       height="13.229"
+       width="15.875"
+       y="1.8521"
+       x="0.52898997" />
+    <rect
+       id="rect885"
+       ry="0.52916002"
+       height="2.6458001"
+       width="10.583"
+       y="11.906"
+       x="3.1749001"
+       style="opacity:0.7;fill:#328cc3;stroke-width:0.052588;stroke-opacity:0.95293998" />
+    <g
+       id="g895"
+       transform="matrix(1,0,0,1.1111,9.9734e-5,-312.86)"
+       style="fill:#ffffff">
+      <rect
+         id="rect887"
+         style="paint-order:stroke markers fill"
+         ry="0.13229001"
+         height="1.3229001"
+         width="1.3229001"
+         y="292.76999"
+         x="4.4979" />
+      <rect
+         id="rect889"
+         style="paint-order:stroke markers fill"
+         ry="0.13229001"
+         height="1.3229001"
+         width="1.3229001"
+         y="292.76999"
+         x="6.7027998" />
+      <rect
+         id="rect891"
+         style="paint-order:stroke markers fill"
+         ry="0.13229001"
+         height="1.3229001"
+         width="1.3229001"
+         y="292.76999"
+         x="8.9076004" />
+      <rect
+         id="rect893"
+         style="paint-order:stroke markers fill"
+         ry="0.13229001"
+         height="1.3229001"
+         width="1.3229001"
+         y="292.76999"
+         x="11.112" />
+    </g>
+    <path
+       id="path897"
+       style="color:#000000;text-indent:0;text-transform:none;fill:url(#linearGradient1438);stroke-width:0.27278"
+       d="m 0.52964,13.758 c -4.876e-4,0.8921 0.52916,1.3229 1.3188,1.3229 h 13.233 c 0.79328,0 1.3224,-0.44347 1.3224,-1.3229 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path899"
+       style="opacity:0.7;fill:#328cc3;fill-rule:evenodd;stroke-width:3.98399997;paint-order:stroke fill markers"
+       d="M 6.502,7 C 4.0079,7 2,9.0079 2,11.502 v 1 C 2,10.0079 4.0079,8 6.502,8 H 57.498 C 59.9921,8 62,10.0079 62,12.502 v -1 C 62,9.0079 59.9921,7 57.498,7 Z"
+       transform="scale(0.26458)"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
