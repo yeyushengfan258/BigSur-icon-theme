@@ -9,19 +9,17 @@ If you like my project, you can buy me a coffee:
 
 ## Install
 
-Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
+Usage:  `./install.sh`  **[OPTIONS...]**
 
-  OPTIONS:
-    -d, --dest DIR          Specify destination directory (Default: $DEST_DIR)
-    -n, --name NAME         Specify theme name (Default: $THEME_NAME)
-    -t, --theme VARIANT     Specify theme color variant(s) [default|black|all] (Default: blue)
-    -a, --alternative       Install alternative icons for software center and file-manager
-    -b, --bold              Install bolder panel icons version (1.5px size)
-
-    -r, --remove,
-    -u, --uninstall         Uninstall (remove) icon themes
-
-    -h, --help              Show help
+|  OPTIONS:           | |
+|:--------------------|:-------------|
+|-d, --dest           | Specify theme destination directory (Default: $HOME/.local/share/icons)|
+|-n, --name           | Specify theme name (Default: $THEME_NAME)|
+|-t, --theme          | Specify theme color variant(s) [default/black/all] (Default: yellow)|
+|-a, --alternative    | Install alternative icons (redesigned MacOS default icons)|
+|-b, --bold           | Install bold panel icons version|
+|-r,--remove,-u,--uninstall | Uninstall (remove) icon themes|
+|-h, --help           | Show this help|      
 
 ## view
 ![view](View-1.png?raw=true)
